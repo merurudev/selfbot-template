@@ -1,0 +1,20 @@
+{
+	"name": "selfbot-template",
+	"version": "1.0.0",
+	"description": "selfbot template by meru",
+	"main": "src/main.ts",
+	"scripts": {
+		"start": "tsx src/main.ts"
+	},
+	"keywords": [],
+	"author": "meruru",
+	"type": "module",
+	"license": "ISC",
+	"dependencies": {
+		"@types/node": "^22.10.1",
+		"consola": "^3.2.3",
+		"discord.js-selfbot-v13": "^3.4.5",
+		"picocolors": "^1.1.1",
+		"tsx": "^4.19.2"
+	}
+}

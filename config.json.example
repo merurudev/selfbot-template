@@ -1,0 +1,9 @@
+{
+	"bot": {
+		"name": "Template Bot by meruru",
+		"token": "input your token",
+		"prefix": "!",
+		"ownerIDs": [""],
+		"whitelistedIDs": [""]
+	}
+}
