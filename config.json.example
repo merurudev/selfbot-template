@@ -1,6 +1,6 @@
 {
 	"bot": {
-		"name": "Template Bot by meruru",
+		"name": "Template selfbot by meruru",
 		"token": "input your token",
 		"prefix": "!",
 		"ownerIDs": [""],
